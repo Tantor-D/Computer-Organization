@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+DM_ext instance_name (
+    .addr(addr), 
+    .mod(mod), 
+    .in_data(in_data), 
+    .DM_ext_o(DM_ext_o)
+    );
+
+

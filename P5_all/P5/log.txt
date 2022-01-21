@@ -1,0 +1,44 @@
+Running: D:\Program\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -nodebug -prj mips.prj -o mips.exe mips_tb_p5 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "TGenerator.v" into library work
+Analyzing Verilog file "reg_file.v" into library work
+Analyzing Verilog file "pc.v" into library work
+Analyzing Verilog file "npc.v" into library work
+Analyzing Verilog file "IM.v" into library work
+Analyzing Verilog file "grf.v" into library work
+Analyzing Verilog file "EXT.v" into library work
+Analyzing Verilog file "DM.v" into library work
+Analyzing Verilog file "control.v" into library work
+Analyzing Verilog file "CMP.v" into library work
+Analyzing Verilog file "ClashControl.v" into library work
+Analyzing Verilog file "ALU.v" into library work
+Analyzing Verilog file "DataPath.v" into library work
+Analyzing Verilog file "mips.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 160464 KB
+Fuse CPU Usage: 296 ms
+Compiling module pc
+Compiling module IM
+Compiling module reg_file
+Compiling module control
+Compiling module EXT
+Compiling module grf
+Compiling module CMP
+Compiling module npc
+Compiling module TGenerator
+Compiling module alu
+Compiling module DM
+Compiling module ClashControl
+Compiling module DataPath
+Compiling module mips
+Compiling module mips_tb_p5
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 15 Verilog Units
+Built simulation executable mips.exe
+Fuse Memory Usage: 169076 KB
+Fuse CPU Usage: 452 ms

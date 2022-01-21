@@ -1,0 +1,3 @@
+vhdtdtfi -lib work E:/software_data/ISE_data/P4/npc.v -lang verilog -prj P4 -o npc.spl -module npc -template D:/Program/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 npc.spl E:/software_data/ISE_data/P4/npc.sym 
+vhdtdtfi -lang verilog -prj P4 -o E:/software_data/ISE_data/P4/npc.tfi -lib work E:/software_data/ISE_data/P4//npc.v -module npc -template D:/Program/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

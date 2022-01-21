@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/ALU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/ALU.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/ALU.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/BEU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/BEU.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/BEU.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/CMP.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/CMP.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/CMP.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/ClashControl.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/ClashControl.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/ClashControl.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/DASM.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/DM_ext.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/DM_ext.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/DM_ext.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/EXT.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/EXT.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/EXT.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/TGenerator.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/TGenerator.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/TGenerator.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/control.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/control.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/control.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/grf.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/grf.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/grf.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/mdu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/mdu.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/mdu.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/npc.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/npc.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/npc.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/pc.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_movz/reg_file.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_movz/reg_file.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_movz/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_movz/reg_file.v&quot; line 3
+</arg>
+</msg>
+
+</messages>
+

@@ -1,0 +1,20 @@
+
+
+
+// Instantiate the module
+ClashControl instance_name (
+    .D_a1(D_a1), 
+    .D_a2(D_a2), 
+    .Tuse1(Tuse1), 
+    .Tuse2(Tuse2), 
+    .E_a3(E_a3), 
+    .E_Tnew(E_Tnew), 
+    .M_a3(M_a3), 
+    .M_Tnew(M_Tnew), 
+    .beu_busy(beu_busy), 
+    .beu_start(beu_start), 
+    .D_is_md_instr(D_is_md_instr), 
+    .do_stall(do_stall)
+    );
+
+

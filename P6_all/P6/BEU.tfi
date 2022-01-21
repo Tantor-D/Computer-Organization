@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+BEU instance_name (
+    .addr(addr), 
+    .mod(mod), 
+    .byteen(byteen)
+    );
+
+

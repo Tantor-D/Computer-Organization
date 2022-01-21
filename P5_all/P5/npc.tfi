@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+npc instance_name (
+    .npc_mod(npc_mod), 
+    .pc(pc), 
+    .imm26(imm26), 
+    .reg32(reg32), 
+    .npc(npc)
+    );
+
+

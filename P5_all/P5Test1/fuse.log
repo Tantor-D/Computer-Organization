@@ -1,0 +1,58 @@
+Running: D:\Program\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/software_data/ISE_data/P5Test1/mips_tb_p5_isim_beh.exe -prj E:/software_data/ISE_data/P5Test1/mips_tb_p5_beh.prj work.mips_tb_p5 work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/TGenerator.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/reg_file.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/pc.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/npc.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/IM.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/grf.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/EXT.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/DM.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/DASM.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/control.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/CMP.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/ClashControl.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/ALU.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/DataPath.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/mips.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P5Test1/mips_tb_p5.v" into library work
+Analyzing Verilog file "D:/Program/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 33: Port in_cmp_is0 is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 48: Port alu_mod is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 133: Port stall is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 159: Port grf_we is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 203: Port stall is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 228: Port grf_a1 is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 262: Port stall is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 285: Port grf_a1 is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 313: Port asm is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P5Test1/DataPath.v" Line 319: Port asm is not connected to this instance
+Completed static elaboration
+Compiling module pc
+Compiling module IM
+Compiling module reg_file
+Compiling module control
+Compiling module EXT
+Compiling module grf
+Compiling module CMP
+Compiling module npc
+Compiling module TGenerator
+Compiling module alu
+Compiling module DM
+Compiling module ClashControl
+Compiling module DASM
+Compiling module DataPath
+Compiling module mips
+Compiling module mips_tb_p5
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\mips_tb_p5_isim_beh.exe.sim\libPortability.dll".
+Compiled 17 Verilog Units
+Built simulation executable E:/software_data/ISE_data/P5Test1/mips_tb_p5_isim_beh.exe
+Fuse Memory Usage: 32680 KB
+Fuse CPU Usage: 562 ms

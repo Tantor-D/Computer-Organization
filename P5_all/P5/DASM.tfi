@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+DASM instance_name (
+    .pc(pc), 
+    .instr(instr), 
+    .reg_name(reg_name), 
+    .imm_as_dec(imm_as_dec), 
+    .asm(asm)
+    );
+
+

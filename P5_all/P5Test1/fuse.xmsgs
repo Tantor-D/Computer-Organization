@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 33: Port <arg fmt="%s" index="1">in_cmp_is0</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 48: Port <arg fmt="%s" index="1">alu_mod</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 133: Port <arg fmt="%s" index="1">stall</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 159: Port <arg fmt="%s" index="1">grf_we</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 203: Port <arg fmt="%s" index="1">stall</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 228: Port <arg fmt="%s" index="1">grf_a1</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 262: Port <arg fmt="%s" index="1">stall</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 285: Port <arg fmt="%s" index="1">grf_a1</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 313: Port <arg fmt="%s" index="1">asm</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"E:/software_data/ISE_data/P5Test1/DataPath.v" Line 319: Port <arg fmt="%s" index="1">asm</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="Simulator" num="0" delta="unknown" >Unable to copy libPortabilityNOSH.dll to the simulation executable directory: <arg fmt="%s" index="1">boost::filesystem::copy_file: ￏﾵￍﾳￕￒﾲﾻﾵﾽￖﾸﾶﾨﾵￄￂﾷﾾﾶﾡﾣ, &quot;isim\mips_tb_p5_isim_beh.exe.sim\libPortability.dll&quot;</arg>.
+</msg>
+
+</messages>
+

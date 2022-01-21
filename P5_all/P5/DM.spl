@@ -1,0 +1,13 @@
+[Inputs]
+clk
+we
+rst
+=add[31:0]=
+=data[31:0]=
+=pc[31:0]=
+[Outputs]
+=result[31:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel DM
+

@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "F:/sophomore/teaching assistant/ISE/P1/splitter.xst" -ofn "F:/sophomore/teaching assistant/ISE/P1/splitter.syr" 
+xst -intstyle ise -ifn "F:/sophomore/teaching assistant/ISE/P1/splitter.xst" -ofn "F:/sophomore/teaching assistant/ISE/P1/splitter.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim splitter.ngc splitter_synthesis.v 
+xst -intstyle ise -ifn "F:/sophomore/teaching assistant/ISE/P1/splitter.xst" -ofn "F:/sophomore/teaching assistant/ISE/P1/splitter.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim splitter.ngc splitter_synthesis.v 

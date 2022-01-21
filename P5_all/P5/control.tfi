@@ -1,0 +1,21 @@
+
+
+
+// Instantiate the module
+control instance_name (
+    .instr(instr), 
+    .cmp_is0(cmp_is0), 
+    .cmp_g0(cmp_g0), 
+    .grf_a1(grf_a1), 
+    .grf_a2(grf_a2), 
+    .grf_a3(grf_a3), 
+    .grf_we(grf_we), 
+    .ext_mod(ext_mod), 
+    .npc_mod(npc_mod), 
+    .alu_mod(alu_mod), 
+    .mux_E_alu_in2(mux_E_alu_in2), 
+    .DM_we(DM_we), 
+    .mux_W_wd(mux_W_wd)
+    );
+
+

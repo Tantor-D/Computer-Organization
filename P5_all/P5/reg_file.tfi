@@ -1,0 +1,27 @@
+
+
+
+// Instantiate the module
+reg_file instance_name (
+    .stall(stall), 
+    .rst(rst), 
+    .clk(clk), 
+    .in_Tnew(in_Tnew), 
+    .in_instr(in_instr), 
+    .in_pc(in_pc), 
+    .in_v1(in_v1), 
+    .in_v2(in_v2), 
+    .in_e32(in_e32), 
+    .in_alu_o(in_alu_o), 
+    .in_DM_data(in_DM_data), 
+    .Tnew(Tnew), 
+    .instr(instr), 
+    .pc(pc), 
+    .v1(v1), 
+    .v2(v2), 
+    .e32(e32), 
+    .alu_o(alu_o), 
+    .DM_data(DM_data)
+    );
+
+

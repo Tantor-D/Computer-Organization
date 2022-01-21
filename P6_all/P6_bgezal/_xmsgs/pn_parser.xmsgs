@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_bgezal/TGenerator.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_bgezal/TGenerator.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_madd/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_bgezal/TGenerator.v&quot; line 3
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/software_data/ISE_data/P6_all/P6_bgezal/control.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/software_data/ISE_data/P6_all/P6_bgezal/control.v</arg>&quot; Line <arg fmt="%d" index="2">3</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/software_data/ISE_data/P6_all/P6_madd/define_file.v&apos; in file &quot;E:/software_data/ISE_data/P6_all/P6_bgezal/control.v&quot; line 3
+</arg>
+</msg>
+
+</messages>
+

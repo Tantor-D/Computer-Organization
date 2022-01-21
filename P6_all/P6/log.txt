@@ -1,0 +1,20 @@
+Running: D:\Program\ISE\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -nodebug -prj mips.prj -o mips.exe mips_tb 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "TGenerator.v" into library work
+Analyzing Verilog file "reg_file.v" into library work
+Analyzing Verilog file "pc.v" into library work
+Analyzing Verilog file "npc.v" into library work
+Analyzing Verilog file "mdu.v" into library work
+Analyzing Verilog file "grf.v" into library work
+Analyzing Verilog file "EXT.v" into library work
+Analyzing Verilog file "DM_ext.v" into library work
+Analyzing Verilog file "control.v" into library work
+Analyzing Verilog file "CMP.v" into library work
+Analyzing Verilog file "ClashControl.v" into library work
+Analyzing Verilog file "BEU.v" into library work
+Analyzing Verilog file "ALU.v" into library work
+Analyzing Verilog file "Datapath.v" into library work
+Analyzing Verilog file "mips.v" into library work

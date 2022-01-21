@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+mdu instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .d1(d1), 
+    .d2(d2), 
+    .start(start), 
+    .mod(mod), 
+    .HI(HI), 
+    .LO(LO), 
+    .busy(busy)
+    );
+
+

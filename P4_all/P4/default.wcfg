@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/software_data/ISE_data/P4/tb_mips_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_mips" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="25" />
+   <wvobject fp_name="/tb_mips/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/npc_op" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">npc_op[2:0]</obj_property>
+      <obj_property name="ObjectShortName">npc_op[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/pc" type="array" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="label">pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/u_npc/sign_ext_16" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sign_ext_16[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sign_ext_16[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/instruction" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">instruction[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/alu_op" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">alu_op[2:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_op[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/r1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">r1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">r1[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/alu_in2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">alu_in2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_in2[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/a1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">a1[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/a2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">a2[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/r1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">r1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">r1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/r2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">r2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">r2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/a3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a3[4:0]</obj_property>
+      <obj_property name="ObjectShortName">a3[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/npc_op" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">npc_op[2:0]</obj_property>
+      <obj_property name="ObjectShortName">npc_op[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/ext_op" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ext_op[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ext_op[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/ext_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ext_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ext_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/u_control/ori" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ori</obj_property>
+      <obj_property name="ObjectShortName">ori</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/mux_grf_a3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">mux_grf_a3[1:0]</obj_property>
+      <obj_property name="ObjectShortName">mux_grf_a3[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/u_grf/a3" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a3[4:0]</obj_property>
+      <obj_property name="ObjectShortName">a3[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/u_DM/add" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">add[31:0]</obj_property>
+      <obj_property name="ObjectShortName">add[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/u_DM/data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/DM_add" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DM_add[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DM_add[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/DM_in_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DM_in_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DM_in_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_mips/uut/u_dataPath/DM_we" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DM_we</obj_property>
+      <obj_property name="ObjectShortName">DM_we</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,58 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/software_data/ISE_data/P6_all/P6_movz/mips_txt_isim_beh.exe" -prj "E:/software_data/ISE_data/P6_all/P6_movz/mips_txt_beh.prj" "work.mips_txt" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/TGenerator.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/reg_file.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/pc.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/npc.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/mdu.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/grf.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/EXT.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/DM_ext.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/DASM.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/control.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/CMP.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/ClashControl.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/BEU.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/ALU.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/mips.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6_all/P6_movz/mips_tb.v" into library work
+Analyzing Verilog file "D:/Program/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v" Line 54: Port in_cmp_e0 is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v" Line 70: Port alu_mod is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v" Line 151: Port stall is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v" Line 187: Port grf_we is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v" Line 256: Port stall is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v" Line 291: Port grf_we is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v" Line 341: Port stall is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6_all/P6_movz/Datapath.v" Line 374: Port grf_a1 is not connected to this instance
+Completed static elaboration
+Compiling module pc
+Compiling module reg_file
+Compiling module control
+Compiling module EXT
+Compiling module grf
+Compiling module CMP
+Compiling module npc
+Compiling module alu
+Compiling module mdu
+Compiling module BEU
+Compiling module DM_ext
+Compiling module TGenerator
+Compiling module ClashControl
+Compiling module DASM
+Compiling module Datapath
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\mips_txt_isim_beh.exe.sim\libPortability.dll".
+Compiled 18 Verilog Units
+Built simulation executable E:/software_data/ISE_data/P6_all/P6_movz/mips_txt_isim_beh.exe
+Fuse Memory Usage: 33480 KB
+Fuse CPU Usage: 530 ms

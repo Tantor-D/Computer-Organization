@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj P6 -o E:/software_data/ISE_data/P6/BEU.tfi -lib work E:/software_data/ISE_data/P6//BEU.v -module BEU -template D:/Program/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

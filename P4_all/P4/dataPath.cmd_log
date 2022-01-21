@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj P4 -o E:/software_data/ISE_data/P4/dataPath.tfi -lib work E:/software_data/ISE_data/P4//dataPath.v -module dataPath -template D:/Program/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

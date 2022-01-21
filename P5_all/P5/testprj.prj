@@ -1,0 +1,15 @@
+verilog work E:\software_data\ISE_data\P5\TGenerator.v
+verilog work E:\software_data\ISE_data\P5\reg_file.v
+verilog work E:\software_data\ISE_data\P5\pc.v
+verilog work E:\software_data\ISE_data\P5\npc.v
+verilog work E:\software_data\ISE_data\P5\IM.v
+verilog work E:\software_data\ISE_data\P5\grf.v
+verilog work E:\software_data\ISE_data\P5\EXT.v
+verilog work E:\software_data\ISE_data\P5\DM.v
+verilog work E:\software_data\ISE_data\P5\control.v
+verilog work E:\software_data\ISE_data\P5\CMP.v
+verilog work E:\software_data\ISE_data\P5\ClashControl.v
+verilog work E:\software_data\ISE_data\P5\ALU.v
+verilog work E:\software_data\ISE_data\P5\DataPath.v
+verilog work E:\software_data\ISE_data\P5\mips.v
+verilog work E:\software_data\ISE_data\P5\mips_tb_p5.v

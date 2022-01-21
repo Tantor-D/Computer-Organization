@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+pc instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .stall(stall), 
+    .in_npc(in_npc), 
+    .pc_o(pc_o)
+    );
+
+

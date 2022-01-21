@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj P4 -o E:/software_data/ISE_data/P4/PC.tfi -lib work E:/software_data/ISE_data/P4//PC.v -module PC -template D:/Program/ISE/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

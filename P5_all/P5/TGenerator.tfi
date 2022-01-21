@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+TGenerator instance_name (
+    .instr(instr), 
+    .Tnew(Tnew), 
+    .Tuse1(Tuse1), 
+    .Tuse2(Tuse2)
+    );
+
+

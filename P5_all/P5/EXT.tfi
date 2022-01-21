@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+EXT instance_name (
+    .inn(inn), 
+    .mod(mod), 
+    .result(result)
+    );
+
+

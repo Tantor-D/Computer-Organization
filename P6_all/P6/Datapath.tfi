@@ -1,0 +1,21 @@
+
+
+
+// Instantiate the module
+Datapath instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .I_instr(I_instr), 
+    .M_DM_o_weichuli(M_DM_o_weichuli), 
+    .I_pc(I_pc), 
+    .M_DM_addr(M_DM_addr), 
+    .M_DM_wdata(M_DM_wdata), 
+    .M_DM_byteen(M_DM_byteen), 
+    .M_pc(M_pc), 
+    .W_grf_we(W_grf_we), 
+    .W_a3(W_a3), 
+    .W_wdata(W_wdata), 
+    .W_pc(W_pc)
+    );
+
+

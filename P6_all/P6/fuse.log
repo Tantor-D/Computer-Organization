@@ -1,0 +1,58 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/software_data/ISE_data/P6/mips_txt_isim_beh.exe" -prj "E:/software_data/ISE_data/P6/mips_txt_beh.prj" "work.mips_txt" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/software_data/ISE_data/P6/TGenerator.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/reg_file.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/pc.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/npc.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/mdu.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/grf.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/EXT.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/DM_ext.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/DASM.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/control.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/CMP.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/ClashControl.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/BEU.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/ALU.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/Datapath.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/mips.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P6/mips_tb.v" into library work
+Analyzing Verilog file "D:/Program/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6/Datapath.v" Line 54: Port in_cmp_e0 is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6/Datapath.v" Line 70: Port alu_mod is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6/Datapath.v" Line 151: Port stall is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6/Datapath.v" Line 187: Port grf_we is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6/Datapath.v" Line 256: Port stall is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6/Datapath.v" Line 291: Port grf_we is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6/Datapath.v" Line 342: Port stall is not connected to this instance
+WARNING:HDLCompiler:1016 - "E:/software_data/ISE_data/P6/Datapath.v" Line 375: Port grf_a1 is not connected to this instance
+Completed static elaboration
+Compiling module pc
+Compiling module reg_file
+Compiling module control
+Compiling module EXT
+Compiling module grf
+Compiling module CMP
+Compiling module npc
+Compiling module alu
+Compiling module mdu
+Compiling module BEU
+Compiling module DM_ext
+Compiling module TGenerator
+Compiling module ClashControl
+Compiling module DASM
+Compiling module Datapath
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\mips_txt_isim_beh.exe.sim\libPortability.dll".
+Compiled 18 Verilog Units
+Built simulation executable E:/software_data/ISE_data/P6/mips_txt_isim_beh.exe
+Fuse Memory Usage: 33324 KB
+Fuse CPU Usage: 609 ms

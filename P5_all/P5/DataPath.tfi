@@ -1,0 +1,10 @@
+
+
+
+// Instantiate the module
+DataPath instance_name (
+    .clk(clk), 
+    .rst(rst)
+    );
+
+

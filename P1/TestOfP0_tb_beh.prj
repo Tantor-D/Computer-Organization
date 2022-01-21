@@ -1,0 +1,3 @@
+verilog work "TestOfP0.v"
+verilog work "TestOfP0_tb.v"
+verilog work "D:/Program/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v"

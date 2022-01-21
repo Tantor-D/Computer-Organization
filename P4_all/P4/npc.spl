@@ -1,0 +1,12 @@
+[Inputs]
+=op[2:0]=
+=pc[31:0]=
+=imm26[25:0]=
+=reg32[31:0]=
+[Outputs]
+=npc[31:0]=
+=pc_plus4[31:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel npc
+

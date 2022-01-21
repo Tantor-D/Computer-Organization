@@ -1,0 +1,44 @@
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+WARNING: Simulation object /mips_txt/data was not traceable in the design for the following reason:
+The number of elements in the requested object is 131072, which exceeds the maximum traceable size of 65536 elements.  The maximum can be changed with the "isim set maxtraceablesize" Tcl command.
+WARNING: Simulation object /mips_txt/inst was not traceable in the design for the following reason:
+The number of elements in the requested object is 131072, which exceeds the maximum traceable size of 65536 elements.  The maximum can be changed with the "isim set maxtraceablesize" Tcl command.
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $ 8 <= 00000001
+@00003004: $ 9 <= 00000004
+@00003008: $10 <= 00000008
+@0000300c: $11 <= 000000c8
+@00003010: $12 <= 00000fa0
+@00003014: $ 1 <= 00000000
+@00003018: $ 1 <= 00000001
+@0000301c: $16 <= ffffffff
+@00003020: $ 1 <= 00000000
+@00003024: $ 1 <= 00000004
+@00003028: $17 <= fffffffc
+@0000302c: $ 1 <= 00000000
+@00003030: $ 1 <= 00000008
+@00003034: $18 <= fffffff8
+@00003038: $ 1 <= 00000000
+@0000303c: $ 1 <= 000000c8
+@00003040: $19 <= ffffff38
+@00003044: $ 1 <= 00000000
+@00003048: $ 1 <= 00000fa0
+@0000304c: $20 <= fffff060
+@00003050: $13 <= 00000001
+@00003054: $13 <= 00000001
+@0000305c: $22 <= 00000000
+@00003060: $23 <= 00007d00
+@00003068: $22 <= 00000000
+@0000306c: $23 <= 00008340
+@00003074: $22 <= ffffffff
+@00003078: $23 <= ffffe700
+@0000307c: $11 <= 00000190
+@00003084: $22 <= ffffffff
+@00003088: $23 <= fffeae80
+ISim>  

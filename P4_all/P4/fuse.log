@@ -1,0 +1,38 @@
+Running: D:\Program\ISE\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/software_data/ISE_data/P4/tb_mips_isim_beh.exe -prj E:/software_data/ISE_data/P4/tb_mips_beh.prj work.tb_mips work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/software_data/ISE_data/P4/PC.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/npc.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/IM.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/grf.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/EXT.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/DM.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/control.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/alu.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/dataPath.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/mips.v" into library work
+Analyzing Verilog file "E:/software_data/ISE_data/P4/tb_mips.v" into library work
+Analyzing Verilog file "D:/Program/ISE/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module PC
+Compiling module IM
+Compiling module control
+Compiling module npc
+Compiling module grf
+Compiling module alu
+Compiling module EXT
+Compiling module DM
+Compiling module dataPath
+Compiling module mips
+Compiling module tb_mips
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 3 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: 系统找不到指定的路径。, "isim\tb_mips_isim_beh.exe.sim\libPortability.dll".
+Compiled 12 Verilog Units
+Built simulation executable E:/software_data/ISE_data/P4/tb_mips_isim_beh.exe
+Fuse Memory Usage: 28864 KB
+Fuse CPU Usage: 515 ms

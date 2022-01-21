@@ -1,0 +1,18 @@
+
+
+
+// Instantiate the module
+grf instance_name (
+    .clk(clk), 
+    .we(we), 
+    .rst(rst), 
+    .a1(a1), 
+    .a2(a2), 
+    .a3(a3), 
+    .wd(wd), 
+    .pc(pc), 
+    .r1(r1), 
+    .r2(r2)
+    );
+
+
